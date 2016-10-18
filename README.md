@@ -9,7 +9,7 @@ level (above www) to do a bunch of stuff with hooks, gulp, version numbers, etc.
     * Hold off on the __name__ variable for now
 
 *Note: The package.json variable __name__ should not have spaces in it when you run __npm install__. It will fail.
-You can change it after this step.*
+You can change it after that step.*
 
 ## Next Steps
 1. Install NPM dependencies found in package.json
@@ -37,6 +37,8 @@ You can change it after this step.*
 
 
 TODO:
+
+MORE DOCU
 
 cordova plugin save
 
